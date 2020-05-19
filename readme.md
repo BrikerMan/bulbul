@@ -36,7 +36,7 @@ Here are the basic
 
 * [ ] PreProcessor
   * [ ] WhiteSpaceRemover
-  * [ ]EmojiConvertor
+  * [ ] EmojiConvertor
 
 * [ ] RuleEngine
   * [ ] DictRule
