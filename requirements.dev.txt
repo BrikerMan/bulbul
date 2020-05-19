@@ -1,0 +1,10 @@
+# Test & Lint
+mypy
+flake8
+pytest
+
+# Documents
+mkdocs-material
+
+# Dependences
+pydantic
