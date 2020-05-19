@@ -10,7 +10,7 @@ A lightweight & powerful skill bot with multi end*point support.
 
 ## Concepts
 
-Here are the basic
+Here are the basic concepts, all pre-defined models saved in file `bulbul/builtins.py`.
 
 * NLU
   * **PreProcessor**: Consume a `Query` object and return a `Query` object with
